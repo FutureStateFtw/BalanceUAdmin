@@ -25,7 +25,7 @@
 				<v-col cols="auto">
 					<v-row align="center" no-gutters>
 						<v-col class="d-none d-sm-flex flex-column text-right mr-3">
-							<span class="welcome-label">Welcome.</span>
+							<span class="welcome-label">Welcome</span>
 							<span class="user-name">{{ userDisplayName }}</span>
 						</v-col>
 						<v-col cols="auto" class="mr-4">
